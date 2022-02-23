@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Homework 6: Chloropleth Map</title>
+</head>
+<body>
+    <h1>HW 6</h1>
+    <img src="./cali_proj6.png">
+    <a href="./cali_proj6.png" alt="Nativity: Counties in California" width='100px'></a> </a>
+    
+    <a>This map focuses on the nativity in California, specifically individuals who are completely native to an Asian country. 
+        The data utilized is from 2015. As you can see a large part of California has few native born people. It is important to note that the counties not filled were null data.</a></br>
+    <a href="geog370_project6/ACSDT5YSPT2015.B05012_data_with_overlays_2022-02-21T222955.csv">Homework 6: CSV File</a> </br>
+    <a href="https://github.com/aacharya17/geog370_ss22/blob/main/geog370_project6/cali_geojson.geojson">Homework 6: Geojson File</a> </br>
+    
+</body>
+</html>
