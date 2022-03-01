@@ -1,0 +1,59 @@
+FIPSCode,LocationType,Location,TimeFrame,DataFormat,Data,Data2
+6001,County,Alameda County,2020,Number,354212,227331
+6003,County,Alpine County,2020,Number,163,70
+6005,County,Amador County,2020,Number,5509,4166
+6007,County,Butte County,2020,Number,43447,30034
+6009,County,Calaveras County,2020,Number,6502,5315
+6011,County,Colusa County,2020,Number,5763,4730
+6013,County,Contra Costa County,2020,Number,249162,178406
+6015,County,Del Norte County,2020,Number,5488,4327
+6017,County,El Dorado County,2020,Number,33830,31126
+6019,County,Fresno County,2020,Number,281256,207858
+6021,County,Glenn County,2020,Number,7226,6042
+6023,County,Humboldt County,2020,Number,27664,18106
+6025,County,Imperial County,2020,Number,55477,37375
+6027,County,Inyo County,2020,Number,3534,4476
+6029,County,Kern County,2020,Number,253010,198910
+6031,County,Kings County,2020,Number,44236,29951
+6033,County,Lake County,2020,Number,14322,9850
+6035,County,Lassen County,2020,Number,5239,3811
+6037,County,Los Angeles County,2020,Number,2211286,1436522
+6039,County,Madera County,2020,Number,40968,32144
+6041,County,Marin County,2020,Number,48434,33516
+6043,County,Mariposa County,2020,Number,2488,1870
+6045,County,Mendocino County,2020,Number,20066,13245
+6047,County,Merced County,2020,Number,79802,59531
+6049,County,Modoc County,2020,Number,1676,1394
+6051,County,Mono County,2020,Number,2483,1936
+6053,County,Monterey County,2020,Number,114917,77387
+6055,County,Napa County,2020,Number,27303,20022
+6057,County,Nevada County,2020,Number,15458,11525
+6059,County,Orange County,2020,Number,713234,473612
+6061,County,Placer County,2020,Number,81172,75208
+6063,County,Plumas County,2020,Number,3069,2219
+6065,County,Riverside County,2020,Number,590164,431521
+6067,County,Sacramento County,2020,Number,368364,249540
+6069,County,San Benito County,2020,Number,13807,11545
+6071,County,San Bernardino County,2020,Number,556799,407268
+6073,County,San Diego County,2020,Number,7060789,502785
+6075,County,San Francisco County,2020,Number,135871,61912
+6077,County,San Joaquin County,2020,Number,194757,152350
+6079,County,San Luis Obispo County,2020,Number,49473,34387
+6081,County,San Mateo County,2020,Number,158846,93554
+6083,County,Santa Barbara County,2020,Number,100296,69006
+6085,County,Santa Clara County,2020,Number,441591,263449
+6087,County,Santa Cruz County,2020,Number,52227,40551
+6089,County,Shasta County,2020,Number,38090,27116
+6091,County,Sierra County,2020,Number,433,432
+6093,County,Siskiyou County,2020,Number,8139,6066
+6095,County,Solano County,2020,Number,99023,62979
+6097,County,Sonoma County,2020,Number,92630,68194
+6099,County,Stanislaus County,2020,Number,149337,110456
+6101,County,Sutter County,2020,Number,25315,23308
+6103,County,Tehama County,2020,Number,15215,11109
+6105,County,Trinity County,2020,Number,2212,1579
+6107,County,Tulare County,2020,Number,140954,105038
+6109,County,Tuolumne County,2020,Number,8175,6045
+6111,County,Ventura County,2020,Number,194310,135312
+6113,County,Yolo County,2020,Number,48086,30569
+6115,County,Yuba County,2020,Number,22753,14915
